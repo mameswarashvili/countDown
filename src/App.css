@@ -1,0 +1,32 @@
+.main-div {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+.inner-div {
+  width: 100%;
+  margin-top: 15%;
+}
+
+form {
+  margin-top: 10px;
+}
+input {
+  width: 50%;
+  border: 0;
+  border-bottom: 1px solid black;
+  text-align: center;
+  margin: 25px 0;
+  font-size: 2em;
+  margin-left: 15px;
+}
+input:focus {
+  border-bottom: 1px solid black;
+  outline: none;
+}
+button {
+  margin: 20px;
+}
+.button {
+  width: 55px;
+}
